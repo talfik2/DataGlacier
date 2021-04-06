@@ -5,4 +5,4 @@ this values points the best performance for my model according to the TPOT Class
 model.py points out my model that is deployed by Flask
 temp.py points out the temp file for Flask Deployment
 index.html points out the html code for the Model Deployment on Flask
-style.css points out the CSS code for styling to my deployment
+style.css points out the CSS code for styling to my deployment.
