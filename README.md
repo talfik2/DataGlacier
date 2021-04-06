@@ -1,0 +1,8 @@
+In Week 4, I deployed a DecisionTreeClassifier for first 10000 rows of G2M Data. I cleaned & preprocessed G2M data, 
+and took only 4 columns & 10000 rows for Model Deployment due to performance concerns of my GPU and easy-to read format of my deployment on Flask.
+I developed DecisionTreeClassifier by setting the metrics of max_depth=10, min_samples_leaf=16, min_samples_split=8, random_state=42 because
+this values points the best performance for my model according to the TPOT Classifier. I added relevant code (TPOT Classifier) as TPOT.ipynb
+model.py points out my model that is deployed by Flask
+temp.py points out the temp file for Flask Deployment
+index.html points out the html code for the Model Deployment on Flask
+style.css points out the CSS code for styling to my deployment
