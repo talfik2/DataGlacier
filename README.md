@@ -9,6 +9,6 @@
 * Preprocessing <br>
  SimpleImputer with Most Frequent Strategy as it accepts the categorical values <br>
  Normalization as our problem is classification & there are lots of unique values
-* Feature Extraction: PCA; plotting features & PCA's n_components for 90 % usefulness
-* Outlier Detection: Matplotlib's boxplot
-* Outlier Elimination: Quantile Based Outlier Elimination Technique
+* Feature Extraction <br> PCA; plotting features & PCA's n_components for 90 % usefulness
+* Outlier Detection <br> Matplotlib's boxplot
+* Outlier Elimination <br> Quantile Based Outlier Elimination Technique
